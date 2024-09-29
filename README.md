@@ -10,5 +10,5 @@ This project implements real-time object detection using the YOLO (You Only Look
 2. Uses YOLOv3 model weights for detecting multiple object classes
 3. Applies Non-Max Suppression to handle overlapping bounding boxes
 4. Visualizes bounding boxes around detected objects using OpenCV and Matplotlib
-5. 
+   
 The project utilizes OpenCV's DNN module to load pre-trained YOLO weights and config files. Bounding boxes are drawn around detected objects, showing the confidence level and class of each detected item.

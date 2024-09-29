@@ -1,0 +1,21 @@
+# import yaml
+
+# # Define the content of the YAML file
+# yaml_content = """
+
+path: /kaggle/input/yolo-data/Data
+test: /kaggle/input/yolo-data/Data/test/images
+train: /kaggle/input/yolo-data/Data/train/images
+val: /kaggle/input/yolo-data/Data/val/images
+
+
+nc: 1
+names: ['head']
+# """
+
+# # Specify the file path
+# file_path = "C:\\Users\\ammar\\Documents\\sequus internship\\yolo\\custom.yaml"
+
+# # # Write the YAML content to the file
+# # with open(file_path, "w") as file:
+# #     file.write(yaml_content)
